@@ -46,12 +46,6 @@ defaultContentLanguage = "de"
   identifier = "tags"
   pageref = "/tags/"
 
-[[menu.main]]
-  name = "Categories"
-  weight = 40
-  identifier = "categories"
-  pageref = "/categories/"
-
 
 [params]
   since = "2002"            # Site creation time
@@ -61,8 +55,8 @@ defaultContentLanguage = "de"
   # site info (optional)
   logoTitle = "uneerie"
 
-  keywords = ["Hugo", "theme", "jane"]
-  description = "Hugo theme jane example site."
+  keywords = ["Lyrik", "Poesie", "uneerie"]
+  description = "Uneerie."
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
   dateFormatToUse = "02.01.2006"
@@ -79,4 +73,5 @@ defaultContentLanguage = "de"
 
   [params.social]
   # a-email = "mailto:netti@uneerie.de"
-  # m-instagram = "https://instagram.com/uneerie_?igshid=OGQ5ZDc2ODk2ZA==" # -> TODO Prüfen ob der Link geht 
+  # m-instagram = "https://instagram.com/uneerie_?igshid=OGQ5ZDc2ODk2ZA==" 
+  # -> TODO Prüfen ob der Link geht 
