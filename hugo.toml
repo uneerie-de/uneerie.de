@@ -79,4 +79,4 @@ defaultContentLanguage = "de"
 
   [params.social]
   # a-email = "mailto:netti@uneerie.de"
-  # m-instagram = "@uneerie_" -> TODO (er erwartet einen Link und nicht nur den Benutzernamen)
+  # m-instagram = "https://instagram.com/uneerie_?igshid=OGQ5ZDc2ODk2ZA==" # -> TODO Prüfen ob der Link geht 
