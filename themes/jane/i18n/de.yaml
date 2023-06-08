@@ -5,7 +5,8 @@
   translation: Tags
 
 - id: tag
-  translation: "Tag: "
+# translation: "Tag: "
+  translation: "# "
 
 - id: categories
   translation: Kategorie
@@ -33,7 +34,7 @@
   translation: Nächster Artikel
 
 - id: toc
-  translation: Inhaltsverzeichnis
+  translation: Inhalt
 
 - id: readmore
   translation: Weiterlesen
@@ -41,11 +42,11 @@
 - id: reward
   translation: Reward
 
-- id: rewardAlipay
-  translation: Alipay
+#- id: rewardAlipay
+#  translation: Alipay
 
-- id: rewardWechat
-  translation: Wechat
+#- id: rewardWechat
+#  translation: Wechat
 
 - id: seeMarkDown
   translation: Markdown Version »
