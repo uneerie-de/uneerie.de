@@ -10,7 +10,7 @@
   padding: 1em 5em 5em 5em;
 
   .archive-title {
-    font-family: $global-serif-font-family;
+    font-family: $global-headings-font-family;
 
     &.tag,
     &.category,
@@ -33,7 +33,7 @@
   }
 
   .collection-title {
-    font-family: $global-serif-font-family;
+    font-family: $global-headings-font-family;
 
     .archive-year {
       margin: 2em 0 0;

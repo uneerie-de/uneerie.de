@@ -56,13 +56,14 @@ $global-lineheight: 1.8 !default;
 
 // Font family of the site.
 //$global-font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif !default;
-//$global-font-family: Athelas, STHeiti, Microsoft Yahei, serif !default;
-//$global-font-family: Athelas, STHeiti, Microsoft Yahei, serif !default;
-$global-font-family: Times, serif !default;
+$global-font-family: Times, 'Times New Roman', serif !default;
 
 // Serif font family of the site.
 //$global-serif-font-family: Athelas, STHeiti, Microsoft Yahei, serif !default;
 $global-serif-font-family: Georgia, Times, 'Times New Roman', serif !default;
+
+// Font family for headings.
+$global-headings-font-family: Georgia, Times, 'Times New Roman', serif !default;
 
 // Background color of the site.
 $global-background: $white !default;
@@ -83,7 +84,7 @@ $global-headings: (
 $logo-font-size: 42px !default;
 
 // Font family of the logo.
-$logo-font-family: Snell Roundhand, cursive, sans-serif !default;
+$logo-font-family: 'Snell Roundhand', 'Snell Roundhand-Bold', cursive, sans-serif !default;
 //$logo-font-family: cursive, LiSu, sans-serif !default;
 
 // Margin of menu item.
