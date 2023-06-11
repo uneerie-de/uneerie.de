@@ -24,7 +24,7 @@
     margin-right: 50px;
 
     .logo {
-      font-size: 22px;
+      font-size: 24px;
       line-height: $mobile-navbar-height;
       font-family: $logo-font-family;
     }
@@ -62,7 +62,7 @@
 
     a {
       font-size: 18px;
-      font-family: $global-serif-font-family;
+      font-family: $global-headings-font-family;
 
       &:hover {
         color: $theme-color;
