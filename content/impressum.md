@@ -8,6 +8,7 @@ weight: 50
 # you can close something for this content if you open it in config.toml.
 comment: false
 mathjax: false
+toc: false
 
 menu:
   main:
@@ -15,15 +16,23 @@ menu:
     weight: 1
 ---
 
-Hugo is a static site engine written in Go.
+#### Angaben gemäß § 5 TMG
 
+    Aneta Clausen
+    Tondernweg 14
+    25479 Ellerau
 
-It makes use of a variety of open source projects including:
+#### Kontakt
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+    Telefon: +49 176 471 211 94 
+    E-Mail: impressum[ät]uneerie.de
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+#### Redaktionell verantwortlich
 
+    Aneta Clausen
+    Tondernweg 14
+    25479 Ellerau
+
+#### Verbraucher­streit­beilegung Universal­schlichtungs­stelle
+
+Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
